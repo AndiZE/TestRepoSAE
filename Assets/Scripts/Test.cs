@@ -26,12 +26,9 @@ public class Test : MonoBehaviour
 <<<<<<< HEAD
         int j = 5;
 =======
-        int j;
-        int j;
-        int j;
-        int j;
-        int j;
-        int j;
+    public void DoSomethink()
+    {
+}        int j;
         int j;
         int j;
         int j;
@@ -47,12 +44,12 @@ public class Test : MonoBehaviour
 
 
         private int Dasd()
-    {
-    
-        
-        
-        return 5;
-    }
+        {
+
+
+
+            return 5;
+        }
     }
 
 
