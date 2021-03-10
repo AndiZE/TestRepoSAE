@@ -15,7 +15,7 @@ public class Test : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
 
@@ -26,7 +26,7 @@ public class Test : MonoBehaviour
         int j;
         int j;
         int j;
-        int j;
+        float x;
         int j;
         int j;
         int j;
@@ -44,12 +44,12 @@ public class Test : MonoBehaviour
 
 
         private int Dasd()
-    {
-    
-        
-        
-        return 5;
-    }
+        {
+
+
+
+            return 5;
+        }
     }
 
 
