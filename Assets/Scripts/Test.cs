@@ -15,14 +15,24 @@ public class Test : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+<<<<<<< HEAD
 
+=======
+        int i = 5;
+>>>>>>> 028b11a66186a62d3fe7f3fa82627679f06d7401
     }
 
 
 
-    public void DoSomethink()
+    public void DoSomethink2()
     {
         int i;
+<<<<<<< HEAD
+        int j = 5;
+=======
+    public void DoSomethink()
+    {
+}        int j;
         int j;
         int j;
         int j;
@@ -31,16 +41,10 @@ public class Test : MonoBehaviour
         int j;
         int j;
         int j;
-        int j;
-        int j;
-        int j;
-        int j;
-        int j;
-        int j;
+>>>>>>> ef78a2b9271fcf156f70ae8c0e6ccaa20ab3a7ff
 
-
-
-
+        i = j;
+        float x = 4;
 
 
         private int Dasd()
@@ -48,6 +52,14 @@ public class Test : MonoBehaviour
 
 
 
+<<<<<<< HEAD
+        private int Dasd()
+        {
+
+
+
+=======
+>>>>>>> 028b11a66186a62d3fe7f3fa82627679f06d7401
             return 5;
         }
     }
