@@ -20,7 +20,7 @@ public class Test : MonoBehaviour
 
 
 
-    public void DoSomethink()
+    public void DoSomethink4()
     {
         int i;
 <<<<<<< HEAD
