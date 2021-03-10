@@ -17,4 +17,17 @@ public class Test : MonoBehaviour
     {
         
     }
+
+    public void DoSomethink()
+    {
+        int i;
+
+
+
+
+
+
+    }
+
+
 }
