@@ -18,15 +18,41 @@ public class Test : MonoBehaviour
         int i = 5;
     }
 
+
+
     public void DoSomethink()
     {
         int i;
+<<<<<<< HEAD
         int j = 5;
+=======
+        int j;
+        int j;
+        int j;
+        int j;
+        int j;
+        int j;
+        int j;
+        int j;
+        int j;
+        int j;
+        int j;
+        int j;
+        int j;
+        int j;
+>>>>>>> ef78a2b9271fcf156f70ae8c0e6ccaa20ab3a7ff
 
         i = j;
         float x = 4;
 
 
+        private int Dasd()
+    {
+    
+        
+        
+        return 5;
+    }
     }
 
 
