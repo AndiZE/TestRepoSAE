@@ -17,4 +17,16 @@ public class Test : MonoBehaviour
     {
         
     }
+
+
+
+
+
+    private int Dasd()
+    {
+    
+        
+        
+        return 5;
+    }
 }
