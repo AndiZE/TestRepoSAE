@@ -20,6 +20,15 @@ public class Test : MonoBehaviour
 
 
 
+    public void DoSomethink()
+    {
+        int i;
+
+
+
+
+
+
 
 
     private int Dasd()
@@ -29,4 +38,9 @@ public class Test : MonoBehaviour
         
         return 5;
     }
+=======
+    }
+
+
+>>>>>>> 85e660064dc778469e56fead6420fe18d2d6d6ca
 }
